@@ -1,0 +1,6 @@
+id,email,displayName
+1,alice@example.com,Alice
+2,bob@example.com,Bob
+3,invalid-email,BadRow
+,missing@example.com,MissingId
+4,charlie@example.com,Charlie
